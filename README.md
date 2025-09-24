@@ -22,7 +22,9 @@ Este projeto faz parte do treinamento para colocar em prática a Analise de dado
 ## 🚀 Como Executar  
 1. Clone este repositório:  
      git clone https://github.com/seuusuario/seu-repo.git
+   
 2. Instale as dependências necessárias:
+pip install pandas seaborn matplotlib
 
 3. Abra o notebook no Jupyter ou Google Colab:
 jupyter notebook 4.Facavcmesmo.ipynb
