@@ -24,10 +24,10 @@ Este projeto faz parte do treinamento para colocar em prática a Analise de dado
      git clone https://github.com/seuusuario/seu-repo.git
    
 2. Instale as dependências necessárias:
-pip install pandas seaborn matplotlib
+   pip install pandas seaborn matplotlib
 
 3. Abra o notebook no Jupyter ou Google Colab:
-jupyter notebook 4.Facavcmesmo.ipynb
+   jupyter notebook 4.Facavcmesmo.ipynb
 
 ## Resultados 
 - Gráficos mostrando a distribuição de variáveis categóricas (Aparência, Vento, Jogar)
