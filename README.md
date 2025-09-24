@@ -16,7 +16,7 @@ Este projeto faz parte do treinamento para colocar em prática a Analise de dado
 - **Statistics** → Medidas estatísticas básicas  
 
 ## 📂 Estrutura do Projeto  
-- `Analisededados.ipynb` → Notebook principal com todo o processo de análise  
+- `4.Analisededados.ipynb` → Notebook principal com todo o processo de análise  
 - `tempo.csv` → Dataset utilizado no estudo  
 
 ## 🚀 Como Executar  
@@ -29,7 +29,7 @@ Este projeto faz parte do treinamento para colocar em prática a Analise de dado
 
 4. Abra o notebook no Jupyter ou Google Colab:
 
-   jupyter notebook Analisededados.ipynb
+   jupyter notebook 4.Analisededados.ipynb
 
 ## Resultados 
 - Gráficos mostrando a distribuição de variáveis categóricas (Aparência, Vento, Jogar)
